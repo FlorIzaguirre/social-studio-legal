@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacidad | Social Studio</title>
+<style>body{font:1rem/1.6 system-ui,sans-serif;max-width:44rem;margin:3rem auto;padding:0 1.25rem;color:#19202b}a{color:#5631a8}</style>
+</head>
+<body><main>
+<h1>Política de privacidad de Social Studio</h1>
+<p>Social Studio es un panel para administrar cuentas de Instagram y gestionar comentarios.</p>
+<h2>Qué datos usa el panel</h2>
+<p>El panel guarda nombres de usuario, roles y permisos de Social Studio, nombres de las cuentas de Instagram que registrás, carpetas, enlaces de publicaciones, texto de los comentarios que preparás y el historial de envíos. Si habilitás la sincronización, esos registros se guardan en Supabase para que las personas autorizadas puedan trabajar desde distintas computadoras. Las contraseñas del panel se guardan como hashes.</p>
+<p>Al conectar una cuenta por medio de Chrome, iniciás sesión directamente en Instagram. Las cookies de esa sesión quedan en el perfil de Chrome de la computadora que utilizás y no se sincronizan con Supabase.</p>
+<h2>Para qué usamos estos datos</h2>
+<p>Los usamos para darte acceso al panel, aplicar los permisos de tu usuario, gestionar los envíos y mostrar su estado e historial.</p>
+<h2>Consultas y eliminación</h2>
+<p>Para consultas sobre tus datos, escribinos a <strong><a href="mailto:florencia.priscila.izaguirre@gmail.com">florencia.priscila.izaguirre@gmail.com</a></strong>. También podés consultar las <a href="eliminacion-de-datos.html">instrucciones para solicitar la eliminación de datos</a>.</p>
+</main></body>
+</html>
