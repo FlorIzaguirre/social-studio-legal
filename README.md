@@ -1,0 +1,2 @@
+# social-studio-legal
+.gitignore
